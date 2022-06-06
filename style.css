@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* common start */
+body{
+
+} 
+/* common end */
+/* header start */
+header{
+background-color:#F0FFF0 ;
+}
+.c-nav{
+
+}
+.logo{
+
+}
+.menu{
+
+}
+.menu ul li a{
+
+}
+.menu ul li a:hover{
+
+}
+/* header end */

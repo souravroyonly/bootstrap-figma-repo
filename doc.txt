@@ -5,3 +5,10 @@ git push -u origin main
 
 new
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+bg color-#F0FFF0
+black- #000000;
+akashi background: #21B573;
+orange-color: #FD511A;
+paragraph color-color: #6C6B6B;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
