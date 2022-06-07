@@ -1,12 +1,31 @@
 @media(max-width:575.99px){
-
+    /* header start */
+    header {
+        padding: 0 0;
+    }
+    .logo {
+        width: 170px;
+    }
+.menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px!important;
 }
 @media(min-width:576px) and (max-width:767.99px){
-
+/*header start*/
+header {
+    padding: 0 0;
+}
+.menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px!important;
 }
 @media(min-width:768px) and (max-width:991.99px){
-    
-}
+ /*header start*/
+ .menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 10px!important;
+}  
+
 @media(min-width:992px) and (max-width:1199.99px){
     
 }
@@ -14,5 +33,5 @@
     
 }
 @media(min-width:1400px){
-    
+
 }
