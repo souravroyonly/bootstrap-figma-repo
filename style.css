@@ -45,3 +45,35 @@ padding: 5px 0;
     background-color:#FD511A;
 }
 /* header end */
+/* banner start */
+.banner{
+     background-color: #F0FFF0;
+     padding: 35px 0 65px;
+}
+.b_text{}
+.b_red{
+    color: #FD511A;
+    line-height: 24px;
+}
+.b_h1{
+     margin: 10px 0 20px;
+     font-size: 48px; 
+     font-weight: 700;
+     line-height: 70px;
+     padding-right: 100px;
+}
+.b_h1 span{
+     color: #21B573;
+}
+.b_black{
+    line-height: 36px;
+}
+.b_banner{
+    margin-top: 15px;
+    padding: 12px 36px;
+}
+.b_image{}
+.b_image img{
+
+}
+/* banner end */
