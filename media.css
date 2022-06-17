@@ -32,6 +32,11 @@
     padding: 0 5px;
 }
 /* banner end */
+/* feature start */
+.feature {
+    padding-bottom: 60px;
+}
+/* feature end */
 }
 @media(min-width:576px) and (max-width:767.99px){
 /*header start*/
@@ -64,6 +69,20 @@ header {
     padding: 0 100px;
 }
 /* banner end */
+/* feature start */
+.feature {
+    padding-bottom: 60px;
+}
+/* feature end */
+/* course start */
+.course{
+    padding-bottom: 60px;
+ }
+.c_item {
+    margin-top: 40px;
+    padding: 50px 80px 45px;
+}
+/* course end */
 }
 @media(min-width:768px) and (max-width:991.99px){
  /*header start*/
@@ -93,6 +112,20 @@ header {
     padding: 0 100px;
 }
 /* banner end */
+/* feature start */
+.feature {
+    padding-bottom: 80px;
+}
+/* feature end */
+/* course start */
+.course{
+    padding-bottom: 80px;
+ }
+.c_item {
+    margin-top: 40px;
+    padding: 25px 180px 30px;
+}
+/* course end */
 } 
 
 @media(min-width:992px) and (max-width:1199.99px){
@@ -102,6 +135,14 @@ header {
         padding-right: 30px;
     }
     /* banner end */
+    /* course start */
+    .c_item {
+        padding: 15px 15px 20px;  
+    }
+    .date ul li span,.seat ul li span{
+        font-size: 14px;
+    }
+    /* course end */
 }
 @media(min-width:1200px) and (max-width:1399.99px){
     /* banner start */
