@@ -37,6 +37,24 @@
     padding-bottom: 60px;
 }
 /* feature end */
+/* course start */
+.course{
+    padding-bottom: 60px;
+ }
+.c_item {
+    margin-top: 40px;
+    padding: 25px 15px 25px;
+}
+.c_item h3 {
+    margin: 12px 0 0;
+}
+.c_item a {
+    margin: 15px 0 15px;
+}
+.date ul li span,.seat ul li span{
+    font-size: 14px;
+}
+/* course end */
 }
 @media(min-width:576px) and (max-width:767.99px){
 /*header start*/
@@ -80,7 +98,13 @@ header {
  }
 .c_item {
     margin-top: 40px;
-    padding: 50px 80px 45px;
+    padding: 45px 75px 45px;
+}
+.c_item h3 {
+    margin: 12px 0 0;
+}
+.c_item a {
+    margin: 15px 0 15px;
 }
 /* course end */
 }
