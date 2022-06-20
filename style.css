@@ -6,7 +6,7 @@ body{
     font-size: 16px;
     font-weight: 400;
     color:#000000;
-    background-color: #FFFFFF;
+    background-color: #E5E5E5;;
 } 
 /* common end */
 /* header start */
@@ -198,3 +198,35 @@ padding: 5px 0;
     line-height: 24px;
 }
 /* courses end */
+/* testimonial start */
+.testimonial{
+    padding-bottom: 100px;
+}
+
+.carousel-inner{
+
+}
+.carousel-item{
+    padding-left: 5%;
+    padding-right: 15%;
+    
+}
+.s_margin{
+    margin-top: 60px;
+}
+.s_img{
+    width: 120px;
+    height: auto;
+    margin-left: 30%;
+}
+.s_img img{
+    
+    
+}
+.c_review{
+
+}
+.c_review p{
+    line-height: 30px;
+}
+/* testimonial end */

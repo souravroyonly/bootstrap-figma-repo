@@ -55,6 +55,19 @@
     font-size: 14px;
 }
 /* course end */
+/* testimonial start */
+.testimonial{
+    padding-bottom: 60px;
+}
+.carousel-item {
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+.s_margin{
+    margin-top: 40px;
+}
+/* testimonial end */
 }
 @media(min-width:576px) and (max-width:767.99px){
 /*header start*/
@@ -107,6 +120,19 @@ header {
     margin: 15px 0 15px;
 }
 /* course end */
+/* testimonial start */
+.testimonial{
+    padding-bottom: 60px;
+}
+.carousel-item {
+    padding-left: 16%;
+    padding-right: 12%;
+    text-align: center;
+}
+.s_margin{
+    margin-top: 40px;
+}
+/* testimonial end */
 }
 @media(min-width:768px) and (max-width:991.99px){
  /*header start*/
@@ -138,18 +164,33 @@ header {
 /* banner end */
 /* feature start */
 .feature {
-    padding-bottom: 80px;
+    padding-bottom: 70px;
 }
 /* feature end */
 /* course start */
 .course{
-    padding-bottom: 80px;
+    padding-bottom: 70px;
  }
 .c_item {
     margin-top: 40px;
     padding: 25px 180px 30px;
 }
 /* course end */
+/* testimonial start */
+
+.testimonial{
+    padding-bottom: 70px;
+}
+
+.carousel-item {
+    padding-left: 20%;
+    padding-right: 15%;
+    text-align: center;
+}
+.s_margin{
+    margin-top: 40px;
+}
+/* testimonial end */
 } 
 
 @media(min-width:992px) and (max-width:1199.99px){
@@ -167,6 +208,14 @@ header {
         font-size: 14px;
     }
     /* course end */
+    /* testimonial */
+
+
+    .carousel-item {
+        padding-left: 5%;
+        padding-right: 10%;
+    }
+    /* testimonial end */
 }
 @media(min-width:1200px) and (max-width:1399.99px){
     /* banner start */
