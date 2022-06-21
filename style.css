@@ -230,3 +230,46 @@ padding: 5px 0;
     line-height: 30px;
 }
 /* testimonial end */
+/* footer start */
+footer{
+   background-color:#282531;
+   padding-bottom: 40px;
+   color: #FFFFFF;
+}
+.footer_item{
+    margin-top: 60px;
+}
+.footer_item p{
+    line-height: 30px;
+}
+.footer_item ul{
+ list-style: none;
+ 
+}
+.footer_item ul li{
+    line-height: 30px;
+}
+
+.footer_item ul li:first-child{
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer_item ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    transition: 0.3s;
+}
+.footer_item ul li a:hover{
+    
+    color: #FD511A;
+}
+.bottom_footer{
+    
+}
+.wrapper{
+    margin-top: 60px;
+}
+.wrapper p{
+    line-height: 30px;
+}
+/* footer end */
